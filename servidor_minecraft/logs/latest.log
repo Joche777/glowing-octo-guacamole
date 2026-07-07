@@ -1,0 +1,1187 @@
+[07Jul2026 05:08:42.456] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[07Jul2026 05:08:42.458] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.31 by Ubuntu
+[07Jul2026 05:08:46.912] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[07Jul2026 05:08:47.040] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/glowing-octo-guacamole/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[07Jul2026 05:08:48.910] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[07Jul2026 05:08:48.994] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[07Jul2026 05:08:49.001] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[07Jul2026 05:08:49.008] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[07Jul2026 05:08:49.013] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[07Jul2026 05:08:49.020] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[07Jul2026 05:08:50.478] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[07Jul2026 05:08:50.482] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[07Jul2026 05:08:50.489] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[07Jul2026 05:09:00.908] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[07Jul2026 05:09:00.916] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[07Jul2026 05:09:00.916] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[07Jul2026 05:09:00.916] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[07Jul2026 05:09:00.942] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `walljump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[07Jul2026 05:09:00.942] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `doublejump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[07Jul2026 05:09:00.943] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `speedboost`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[07Jul2026 05:09:02.285] [modloading-worker-1/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.2...
+[07Jul2026 05:09:02.483] [modloading-worker-2/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[07Jul2026 05:09:02.680] [modloading-worker-2/INFO] [Shadow.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[07Jul2026 05:09:02.842] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[07Jul2026 05:09:02.842] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[07Jul2026 05:09:04.421] [modloading-worker-2/INFO] [JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[07Jul2026 05:09:04.644] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: tower structure registered
+[07Jul2026 05:09:04.645] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ice_tower structure registered
+[07Jul2026 05:09:04.645] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: jungle_tower structure registered
+[07Jul2026 05:09:04.645] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_tower structure registered
+[07Jul2026 05:09:04.645] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_grass_tower structure registered
+[07Jul2026 05:09:04.648] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_tower structure registered
+[07Jul2026 05:09:04.648] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_warm_tower structure registered
+[07Jul2026 05:09:04.734] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[07Jul2026 05:09:05.120] [modloading-worker-3/INFO] [epicfight/]: Load Configuration File
+[07Jul2026 05:09:05.125] [modloading-worker-3/INFO] [epicfight/]: Load Configuration File
+[07Jul2026 05:09:05.140] [modloading-worker-3/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[07Jul2026 05:09:05.140] [modloading-worker-3/INFO] [Spartan Weaponry/]: Initialising API! Version: 5
+[07Jul2026 05:09:05.158] [modloading-worker-0/INFO] [corgiaoc.byg.BYG/]: Loading config: /workspaces/glowing-octo-guacamole/servidor_minecraft/config/byg/byg-nether.toml
+[07Jul2026 05:09:05.439] [modloading-worker-2/INFO] [expandability/]: ExpandAbility here, who dis?
+[07Jul2026 05:09:07.129] [modloading-worker-1/INFO] [ejektaflex.bountiful.BountifulMod/]: Loading Bountiful listeners..
+[07Jul2026 05:09:07.208] [modloading-worker-1/INFO] [STDOUT/]: [ejektaflex.bountiful.data.json.JsonSerializers:register:14]: BOREG registering json ser
+[07Jul2026 05:09:09.543] [main/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: HELLO from Register Block
+[07Jul2026 05:09:11.134] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Blocks registered!
+[07Jul2026 05:09:11.606] [main/INFO] [Spartan Shields/]: Registering Items
+[07Jul2026 05:09:11.609] [main/INFO] [Spartan Shields/]: Registered Items successfully!
+[07Jul2026 05:09:11.729] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 119 ms
+[07Jul2026 05:09:11.742] [main/INFO] [Spartan Weaponry/]: Registering items...
+[07Jul2026 05:09:11.748] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[07Jul2026 05:09:11.802] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Items registered!
+[07Jul2026 05:09:12.074] [main/INFO] [Spartan Shields/]: Registering Enchantments
+[07Jul2026 05:09:12.074] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
+[07Jul2026 05:09:12.153] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:extrapart, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.154] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:sandcloud, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.155] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:traveler, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.155] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:anthermite, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.156] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:mimic, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.157] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:piranha, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.157] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:rogue, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.158] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:slimond, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.159] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:haunter, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.159] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:lordskeleton, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.161] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:deadhound, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.161] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:crow, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.161] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:notehead, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.162] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:winterhunter, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.162] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:pice, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.165] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:leech, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.165] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:pitcher, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.166] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:whirlwind, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.167] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:crawler, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.167] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:deserted, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.167] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:ironslime, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.168] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:king, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.168] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:kraken, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.170] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:sun, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.173] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:voidmaster, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.174] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:guard, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.174] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:scientist, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.174] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:slimewolf, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.268] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[07Jul2026 05:09:12.271] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Entities registered!
+[07Jul2026 05:09:12.274] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:archer, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.275] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:berserker, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.275] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:black_iron_golem, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.277] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:enchanter, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.278] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:furantur, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.279] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:hoarder, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.279] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:illager_king, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.279] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:miner, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.279] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:necromancer, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:12.345] [main/INFO] [com.dainxt.dungeonsmod.DungeonsMod/]: Register Point of Interest public static net.minecraft.village.PointOfInterestType net.minecraft.village.PointOfInterestType.func_221052_a(net.minecraft.village.PointOfInterestType)
+[07Jul2026 05:09:13.172] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:the_end has been registered twice for the same name minecraft:the_end.
+[07Jul2026 05:09:13.186] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:end_barrens has been registered twice for the same name minecraft:end_barrens.
+[07Jul2026 05:09:13.191] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:small_end_islands has been registered twice for the same name minecraft:small_end_islands.
+[07Jul2026 05:09:13.193] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:end_midlands has been registered twice for the same name minecraft:end_midlands.
+[07Jul2026 05:09:13.193] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:end_highlands has been registered twice for the same name minecraft:end_highlands.
+[07Jul2026 05:09:15.460] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Biomes registered!
+[07Jul2026 05:09:15.467] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Registering block placer types!
+[07Jul2026 05:09:15.494] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Decorators registered!
+[07Jul2026 05:09:15.568] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Features registered!
+[07Jul2026 05:09:15.630] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Structures registered!
+[07Jul2026 05:09:15.634] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Surface builders Registered!
+[07Jul2026 05:09:15.646] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityHippogryph from class com.github.alexthe666.iceandfire.entity.EntityPixie
+[07Jul2026 05:09:15.660] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDreadThrall from class com.github.alexthe666.iceandfire.entity.EntityDreadKnight
+[07Jul2026 05:09:16.076] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: Config set
+[07Jul2026 05:09:16.077] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[07Jul2026 05:09:16.171] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:goblin_trader, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:16.179] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:vein_goblin_trader, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:16.223] [modloading-worker-2/INFO] [Dungeon Crawl/]: Common Setup
+[07Jul2026 05:09:16.226] [modloading-worker-2/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[07Jul2026 05:09:16.229] [modloading-worker-2/INFO] [Dungeon Crawl/]: minecraft:overworld
+[07Jul2026 05:09:16.306] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:anvil_pet_entity, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:16.309] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bed_pet_entity, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:16.310] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bill_gates_entity, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:16.311] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:satya_nadella_entity, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:16.312] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:steve_ballmer_entity, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:16.312] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:siamese_entity, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:16.314] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_blaze_entity, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:16.314] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_enderman_entity, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:16.328] [modloading-worker-2/WARN] [melonslise.subwild.SubWild/]: 
+[07Jul2026 05:09:16.330] [modloading-worker-2/WARN] [melonslise.subwild.SubWild/]: @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[07Jul2026 05:09:16.331] [modloading-worker-2/WARN] [melonslise.subwild.SubWild/]: Yung's Better Caves Present! Enabling workaround for wall feature placements!
+[07Jul2026 05:09:16.332] [modloading-worker-2/WARN] [melonslise.subwild.SubWild/]: @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[07Jul2026 05:09:16.332] [modloading-worker-2/WARN] [melonslise.subwild.SubWild/]: 
+[07Jul2026 05:09:16.335] [modloading-worker-2/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: HELLO FROM PREINIT
+[07Jul2026 05:09:16.335] [modloading-worker-2/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: DIRT BLOCK >> minecraft:dirt
+[07Jul2026 05:09:16.363] [modloading-worker-2/ERROR] [mixin/]: Mixin config projectvibrantjourneys.mixins.json does not specify "minVersion" property
+[07Jul2026 05:09:16.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treechop] Starting version check at https://raw.githubusercontent.com/hammertater/treechop/main/update.json
+[07Jul2026 05:09:16.386] [modloading-worker-2/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[07Jul2026 05:09:16.407] [modloading-worker-2/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[07Jul2026 05:09:16.437] [modloading-worker-1/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Added Illagers to Raids
+[07Jul2026 05:09:16.453] [modloading-worker-2/INFO] [corgiaoc.byg.BYG/]: Reading Sub-Biomes json
+[07Jul2026 05:09:16.489] [modloading-worker-2/INFO] [corgiaoc.byg.BYG/]: Reading json
+[07Jul2026 05:09:16.524] [modloading-worker-2/INFO] [corgiaoc.byg.BYG/]: BYG: "Common Setup" Event Complete!
+[07Jul2026 05:09:16.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treechop] Found status: OUTDATED Current: 0.14.5 Target: 0.14.6
+[07Jul2026 05:09:16.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeonsmod] Starting version check at https://raw.githubusercontent.com/dainxt/DungeonsMod-Issue-Tracker/master/update.json
+[07Jul2026 05:09:16.919] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[07Jul2026 05:09:16.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeonsmod] Found status: BETA Current: 1.16.3-1.4.32 Target: null
+[07Jul2026 05:09:16.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[07Jul2026 05:09:16.981] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for guardvillagers:guard, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.058] [main/INFO] [Shadow.repack.noobutil.NoobUtil/]: Added 3 additional attributes to PlayerEntity.
+[07Jul2026 05:09:17.086] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterendforge:end_fish, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.092] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterendforge:dragonfly, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.092] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterendforge:shadow_walker, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.092] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterendforge:end_slime, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.092] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterendforge:cubozoa, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.093] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterendforge:silk_moth, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.128] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=goblintraders
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2019) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2014) ~[?:?]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:2013) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1575) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1559) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:163) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=goblintraders
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1963) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1559) ~[?:?]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:145) ~[forge:?]
+	... 3 more
+[07Jul2026 05:09:17.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Starting version check at https://raw.githubusercontent.com/yungnickyoung/YUNGs-Better-Caves/1.16/versions.json
+[07Jul2026 05:09:17.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Found status: BETA Current: 1.16.4-1.1.2 Target: null
+[07Jul2026 05:09:17.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[07Jul2026 05:09:17.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: OUTDATED Current: 1.2.5 Target: 1.2.6
+[07Jul2026 05:09:17.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[07Jul2026 05:09:17.195] [main/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Repurposed Structures: Unknown key repurposed_structures:dungeon_jungle was found in the dimension allow config. Skipping that entry...
+[07Jul2026 05:09:17.196] [main/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Repurposed Structures: Unknown key repurposed_structures:warm_land_ruins was found in the dimension allow config. Skipping that entry...
+[07Jul2026 05:09:17.286] [main/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Made the world slightly more miserable
+[07Jul2026 05:09:17.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: OUTDATED Current: 3.2.1.196 Target: 3.2.1.378
+[07Jul2026 05:09:17.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Jul2026 05:09:17.377] [modloading-worker-1/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[07Jul2026 05:09:17.388] [main/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[07Jul2026 05:09:17.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[07Jul2026 05:09:17.423] [modloading-worker-2/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: Got IMC []
+[07Jul2026 05:09:17.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[07Jul2026 05:09:17.440] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: OUTDATED Current: 1.12.1.90 Target: 1.12.1.103
+[07Jul2026 05:09:17.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corail_recycler] Starting version check at https://raw.githubusercontent.com/Corail31/recycler/master/update.json
+[07Jul2026 05:09:17.456] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:foliaath, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.456] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:baby_foliaath, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.457] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:ferrous_wroughtnaut, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.457] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barakoana, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.458] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barakoaya, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.459] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barakoan_player, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.459] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barakoa_sunblocker_player, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.460] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barakoan_barakoana, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.460] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barakoa_sunblocker, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.461] [modloading-worker-1/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoaVillager from class com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarako
+[07Jul2026 05:09:17.464] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barako, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.466] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:frostmaw, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.467] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:naga, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.468] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:lantern, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.470] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:grottol, use EntityAttributeCreationEvent instead.
+[07Jul2026 05:09:17.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corail_recycler] Found status: OUTDATED Current: 5.2.0 Target: 5.2.1
+[07Jul2026 05:09:17.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[07Jul2026 05:09:17.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: OUTDATED Current: 3.3.0 Target: 3.4.1
+[07Jul2026 05:09:17.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vanilladeathchest] Starting version check at https://raw.githubusercontent.com/TheRandomLabs/VanillaDeathChest/misc/versions.json
+[07Jul2026 05:09:17.512] [modloading-worker-3/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
+[07Jul2026 05:09:17.533] [modloading-worker-3/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
+[07Jul2026 05:09:17.534] [modloading-worker-3/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
+[07Jul2026 05:09:17.539] [modloading-worker-3/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[07Jul2026 05:09:17.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vanilladeathchest] Found status: UP_TO_DATE Current: 1.16.3-1.11.0.8 Target: null
+[07Jul2026 05:09:17.559] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Compostible Blocks Added!
+[07Jul2026 05:09:17.561] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Hoeable Blocks!
+[07Jul2026 05:09:17.566] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Flammables!
+[07Jul2026 05:09:17.569] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added strippable Blocks...
+[07Jul2026 05:09:17.570] [main/INFO] [corgiaoc.byg.BYG/]: BYG: "Load Complete" Event Complete!
+[07Jul2026 05:09:22.668] [main/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[07Jul2026 05:09:22.900] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: tower structure feature registered
+[07Jul2026 05:09:22.901] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ice_tower structure feature registered
+[07Jul2026 05:09:22.901] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: jungle_tower structure feature registered
+[07Jul2026 05:09:22.902] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_tower structure feature registered
+[07Jul2026 05:09:22.902] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_grass_tower structure feature registered
+[07Jul2026 05:09:22.903] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_tower structure feature registered
+[07Jul2026 05:09:22.903] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_warm_tower structure feature registered
+[07Jul2026 05:09:25.422] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Jul2026 05:09:26.210] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07Jul2026 05:09:26.214] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07Jul2026 05:09:26.216] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07Jul2026 05:09:26.220] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07Jul2026 05:09:26.222] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07Jul2026 05:09:26.233] [main/INFO] [ejektaflex.bountiful.BountifulMod/]: Bountiful adding resource listener..
+[07Jul2026 05:09:26.234] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, TreeChop-1.16.4-0.14.5.jar, mowziesmobs-1.5.19.jar, DungeonsMod-1.16.3-1.4.32.jar, areas_1.16.5-2.7.jar, Pirates_And_Looters_Kraken_Update.jar, jei-1.16.5-7.7.1.118.jar, goblintraders-1.6.0-1.16.3.jar, torohealth-1.16.4-forge-4.jar, BetterCaves-Forge-1.16.4-1.1.2.jar, Waystones_1.16.5-7.6.2.jar, villagernames_1.16.5-3.3.jar, EpicFightMod-1.16.5-4.1.6.jar, comforts-forge-1.16.5-4.0.1.2.jar, citadel-1.8.1-1.16.5.jar, Artifacts-1.16.5-2.10.0.jar, YungsApi-1.16.4-Forge-12.jar, DungeonCrawl-1.16.5-2.3.2.jar, guardvillagers-1.16.5.1.2.5.jar, u_team_core-1.16.5-3.2.1.196.jar, iceandfire-2.1.9-1.16.5.jar, walljump-forge-1.16.4-1.3.7.jar, inventorypets-1.16.5-2.0.15.jar, iChunUtil-1.16.5-10.4.1.jar, mysticalworld-1.16.5-0.3.2.17.jar, Paraglider-1.16.5-1.3.2.1.jar, forge-1.16.5-36.2.42-universal.jar, TravelersTitles-1.16.4-1.5.jar, subwild-1.2.1.jar, betterendforge-1.16.4-1.6.0.jar, DungeonsArise-1.16.5-2.1.47-release.jar, castle_in_the_sky-1.16.5-0.2.6.jar, useful_backpacks-1.16.5-1.12.1.90.jar, repurposed_structures_forge-3.1.0+1.16.5.jar, projectvibrantjourneys-1.16.5-3.2.2.jar, Jade-1.16.4-2.7.2.jar, EndRemastered-R36.jar, towers_of_the_wild-1.16.4-2.0.1.jar, SpawnerFix-1.16.2-1.0.0.2.jar, Bountiful-1.16.4-3.3.1.jar, curios-forge-1.16.5-4.0.5.2.jar, SpartanShields-1.16.5-2.1.2.jar, Patchouli-1.16.4-53.1 (1).jar, Xaeros_Minimap_21.14.1_Forge_1.16.5.jar, collective-1.16.5-2.60.jar, corail_recycler-1.16.5-5.2.0.jar, randomvillagenames_1.16.5-1.3.jar, InventoryHud_[1.16.2-1.16.5].forge-3.3.0.jar, vanilladeathchest-1.16.3-1.11.0.8.jar, SpartanWeaponry-1.16.4-2.1.0-beta-4.jar, cloth-config-4.11.26-forge.jar, byg-1.3.1.jar, Aquaculture-1.16.5-2.1.20.jar, illagers_plus-1.16.4v1.5.jar, infinitetrading_1.16.5-1.9.jar, expandability-2.0.1-forge.jar, valhelsia_core-16.0.9.jar, valhelsia_structures-1.16.5-0.1.4.jar, BetterMineshafts-Forge-1.16.4-2.0.4.jar, dungeons_gear-1.16.5-3.0.17.jar
+[07Jul2026 05:09:30.039] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_gear:gold_sword_smithing
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:golden__sword'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.SmithingRecipe$Serializer.func_199425_a_(SmithingRecipe.java:70) ~[?:?]
+	at net.minecraft.item.crafting.SmithingRecipe$Serializer.func_199425_a_(SmithingRecipe.java:68) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[07Jul2026 05:09:30.065] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 11 recipes
+[07Jul2026 05:09:30.679] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[07Jul2026 05:09:31.918] [Worker-Main-4/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table bountiful:blocks/bountyboard
+com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
+	at net.minecraft.util.JSONUtils.func_151214_t(SourceFile:425) ~[?:?]
+	at net.minecraft.loot.functions.CopyNbt$Serializer.func_186530_b(SourceFile:245) ~[?:?]
+	at net.minecraft.loot.functions.CopyNbt$Serializer.func_186530_b(SourceFile:231) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:99) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:88) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:149) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1337) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[07Jul2026 05:09:31.948] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[07Jul2026 05:09:32.688] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jul2026 05:09:32.688] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jul2026 05:09:32.689] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jul2026 05:09:32.689] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jul2026 05:09:32.690] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {endrem:blocks/end_crystal_ore}.pools[0].entries[0]: Unreachable entry!
+[07Jul2026 05:09:32.690] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jul2026 05:09:32.917] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2317 advancements
+[07Jul2026 05:09:32.923] [Worker-Main-4/INFO] [Dungeon Crawl/]: Loading data...
+[07Jul2026 05:09:34.211] [Worker-Main-4/INFO] [Dungeon Crawl/]: Done.
+[07Jul2026 05:09:34.257] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Loading Bounty Data. We will probably skip some data since certain mods are not loaded.
+[07Jul2026 05:09:34.312] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/simplytea/chef_objs as dependencies are not met: [simplytea]
+[07Jul2026 05:09:34.321] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/upgrade_aquatic/fisherman_rews as dependencies are not met: [upgrade_aquatic]
+[07Jul2026 05:09:34.327] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/inspirations/farmer_rews as dependencies are not met: [inspirations]
+[07Jul2026 05:09:34.335] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/vanillafoodpantry/chef_objs as dependencies are not met: [vanillafoodpantry]
+[07Jul2026 05:09:34.343] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/upgrade_aquatic/fisherman_objs as dependencies are not met: [upgrade_aquatic]
+[07Jul2026 05:09:34.346] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/apotheosis/fletcher_rews as dependencies are not met: [apotheosis]
+[07Jul2026 05:09:34.356] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/charm/tinker_objs as dependencies are not met: [charm]
+[07Jul2026 05:09:34.361] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/simplefarming/chef_objs as dependencies are not met: [simplefarming]
+[07Jul2026 05:09:34.361] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/quark/tinker_rews as dependencies are not met: [quark]
+[07Jul2026 05:09:34.362] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/upgrademodifiers/armorer_rews as dependencies are not met: [upgrademodifiers]
+[07Jul2026 05:09:34.367] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/charm/tinker_rews as dependencies are not met: [charm]
+[07Jul2026 05:09:34.367] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/naturescompass/toolsmith_rews as dependencies are not met: [naturescompass]
+[07Jul2026 05:09:34.368] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/storagedrawers/tinker_rews as dependencies are not met: [storagedrawers]
+[07Jul2026 05:09:34.371] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/quark/toolsmith_rews as dependencies are not met: [quark]
+[07Jul2026 05:09:34.377] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/quark/farmer_objs as dependencies are not met: [quark]
+[07Jul2026 05:09:34.378] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/inspirations/tinker_rews as dependencies are not met: [inspirations]
+[07Jul2026 05:09:34.380] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/farmingforblockheads/farmer_objs as dependencies are not met: [farmingforblockheads]
+[07Jul2026 05:09:34.384] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/upgrademodifiers/toolsmith_rews as dependencies are not met: [upgrademodifiers]
+[07Jul2026 05:09:34.387] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/vanillafoodpantry/chef_rews as dependencies are not met: [vanillafoodpantry]
+[07Jul2026 05:09:34.389] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/inspirations/fletcher_rews as dependencies are not met: [inspirations]
+[07Jul2026 05:09:34.389] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/farmingforblockheads/farmer_rews as dependencies are not met: [farmingforblockheads]
+[07Jul2026 05:09:34.390] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/xlfoodmod/chef_objs as dependencies are not met: [xlfoodmod]
+[07Jul2026 05:09:34.395] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/simplefarming/farmer_objs as dependencies are not met: [simplefarming]
+[07Jul2026 05:09:34.396] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/quark/fletcher_objs as dependencies are not met: [quark]
+[07Jul2026 05:09:34.399] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/xlfoodmod/chef_rews as dependencies are not met: [xlfoodmod]
+[07Jul2026 05:09:34.400] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/simplefarming/farmer_rews as dependencies are not met: [simplefarming]
+[07Jul2026 05:09:34.400] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Found decrees: [hunting, butcher, mason, librarian, farmer, toolsmith, chef, mapper, armorer, fletcher, fisherman, cleric, leatherer, shepherd, tinker]
+[07Jul2026 05:09:34.400] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Merging Entry Pools..
+[07Jul2026 05:09:34.400] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating Entry Pools..
+[07Jul2026 05:09:34.400] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'toolsmith_objs'
+[07Jul2026 05:09:34.408] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'butcher_rews'
+[07Jul2026 05:09:34.408] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'tinker_objs'
+[07Jul2026 05:09:34.408] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'common_enchants'
+[07Jul2026 05:09:34.408] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'shepherd_objs'
+[07Jul2026 05:09:34.412] [Worker-Main-4/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: minecraft:wool, Amount: 0 [[4..32]], Worth: 250, NBT: null, Weight: 1000]
+[07Jul2026 05:09:34.412] [Worker-Main-4/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: forge:dyes, Amount: 0 [[2..16]], Worth: 200, NBT: null, Weight: 1000]
+[07Jul2026 05:09:34.412] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'chef_objs'
+[07Jul2026 05:09:34.412] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'toolsmith_rews'
+[07Jul2026 05:09:34.412] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'fisherman_objs'
+[07Jul2026 05:09:34.413] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'leatherer_rews'
+[07Jul2026 05:09:34.413] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'farmer_rews'
+[07Jul2026 05:09:34.413] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'cleric_objs'
+[07Jul2026 05:09:34.413] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'fisherman_rews'
+[07Jul2026 05:09:34.413] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'armorer_rews'
+[07Jul2026 05:09:34.413] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'shepherd_rews'
+[07Jul2026 05:09:34.413] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'armorer_objs'
+[07Jul2026 05:09:34.414] [Worker-Main-4/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: forge:ingots/copper, Amount: 0 [[1..16]], Worth: 800, NBT: null, Weight: 1000]
+[07Jul2026 05:09:34.414] [Worker-Main-4/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: forge:ingots/tin, Amount: 0 [[1..16]], Worth: 600, NBT: null, Weight: 1000]
+[07Jul2026 05:09:34.414] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'farmer_objs'
+[07Jul2026 05:09:34.414] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'butcher_objs'
+[07Jul2026 05:09:34.414] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'librarian_objs'
+[07Jul2026 05:09:34.414] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'common_crafts'
+[07Jul2026 05:09:34.414] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'librarian_rews'
+[07Jul2026 05:09:34.414] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'mason_objs'
+[07Jul2026 05:09:34.414] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'hunting_objs'
+[07Jul2026 05:09:34.414] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'hunting_rews'
+[07Jul2026 05:09:34.415] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'all_villager_objs'
+[07Jul2026 05:09:34.415] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'cleric_rews'
+[07Jul2026 05:09:34.415] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'all_villager_rews'
+[07Jul2026 05:09:34.416] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'chef_rews'
+[07Jul2026 05:09:34.416] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'fletcher_objs'
+[07Jul2026 05:09:34.416] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'mapper_rews'
+[07Jul2026 05:09:34.416] [Worker-Main-4/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: minecraft:banners, Amount: 0 [[1..3]], Worth: 750, NBT: null, Weight: 400]
+[07Jul2026 05:09:34.416] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'tinker_rews'
+[07Jul2026 05:09:34.416] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'leatherer_objs'
+[07Jul2026 05:09:34.416] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'fletcher_rews'
+[07Jul2026 05:09:34.416] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'mapper_objs'
+[07Jul2026 05:09:34.416] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'mason_rews'
+[07Jul2026 05:09:34.417] [Worker-Main-4/INFO] [ejektaflex.bountiful.BountifulMod/]: Found Entry Pools: [hunting, butcher, mason, librarian, farmer, toolsmith, chef, mapper, armorer, fletcher, fisherman, cleric, leatherer, shepherd, tinker]
+[07Jul2026 05:09:42.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[07Jul2026 05:09:42.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Jul2026 05:09:42.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Jul2026 05:09:42.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Jul2026 05:09:42.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Jul2026 05:09:42.548] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[07Jul2026 05:09:42.835] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07Jul2026 05:09:42.836] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07Jul2026 05:09:42.836] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07Jul2026 05:09:42.836] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07Jul2026 05:09:43.047] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: plains
+[07Jul2026 05:09:43.049] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: savanna
+[07Jul2026 05:09:43.049] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: snowy
+[07Jul2026 05:09:43.050] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: taiga
+[07Jul2026 05:09:43.050] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: desert
+[07Jul2026 05:09:43.050] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Repurposed Structures
+[07Jul2026 05:09:43.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07Jul2026 05:09:47.875] [Worker-Main-5/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[07Jul2026 05:09:47.876] [Worker-Main-5/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[07Jul2026 05:09:47.906] [Worker-Main-5/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[07Jul2026 05:09:47.906] [Worker-Main-5/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[07Jul2026 05:09:49.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Jul2026 05:09:49.753] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[07Jul2026 05:09:49.840] [Worker-Main-6/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:regular_bottom pattern registered.
+[07Jul2026 05:09:49.873] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[07Jul2026 05:09:50.184] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[07Jul2026 05:09:50.670] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[07Jul2026 05:09:51.165] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[07Jul2026 05:09:51.683] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[07Jul2026 05:09:52.163] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[07Jul2026 05:09:52.673] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 4%
+[07Jul2026 05:09:53.165] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 5%
+[07Jul2026 05:09:53.669] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
+[07Jul2026 05:09:54.162] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
+[07Jul2026 05:09:54.299] [Worker-Main-4/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7e0fd0bc' to registry
+[07Jul2026 05:09:54.300] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[07Jul2026 05:09:54.694] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 9%
+[07Jul2026 05:09:55.165] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 9%
+[07Jul2026 05:09:55.258] [Worker-Main-5/WARN] [net.minecraft.util.Util/]: Worker-Main-5 died
+java.util.concurrent.CompletionException: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1081) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at net.minecraftforge.eventbus.EventBus.handleException(EventBus.java:316) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:307) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:583) ~[forge:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:577) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.doGatherCapabilities(CapabilityProvider.java:69) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.getCapabilities(CapabilityProvider.java:77) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.areCapsCompatible(CapabilityProvider.java:89) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_77970_a(ItemStack.java:364) ~[?:?]
+	at net.minecraft.tileentity.AbstractFurnaceTileEntity.func_70299_a(AbstractFurnaceTileEntity.java:387) ~[?:?]
+	at com.yungnickyoung.minecraft.bettermineshafts.world.generator.pieces.SideRoom.func_230383_a_(SideRoom.java:130) ~[bettermineshafts:1.16.4-2.0.4]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_230366_a_(StructureStart.java:65) ~[?:?]
+	at net.minecraft.world.biome.Biome.lambda$generate$20(Biome.java:234) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:189) ~[?:?]
+	at it.unimi.dsi.fastutil.longs.LongIterator.forEachRemaining(LongIterator.java:53) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.biome.Biome.func_242427_a(Biome.java:233) ~[?:?]
+	at net.minecraft.world.gen.ChunkGenerator.func_230351_a_(SourceFile:220) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_222605_b(ChunkStatus.java:77) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
+	... 11 more
+[07Jul2026 05:09:55.262] [Worker-Main-5/ERROR] [net.minecraft.util.Util/]: Caught exception in thread Thread[Worker-Main-5,5,main]
+java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at net.minecraftforge.eventbus.EventBus.handleException(EventBus.java:316) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:307) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:583) ~[forge:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:577) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.doGatherCapabilities(CapabilityProvider.java:69) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.getCapabilities(CapabilityProvider.java:77) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.areCapsCompatible(CapabilityProvider.java:89) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_77970_a(ItemStack.java:364) ~[?:?]
+	at net.minecraft.tileentity.AbstractFurnaceTileEntity.func_70299_a(AbstractFurnaceTileEntity.java:387) ~[?:?]
+	at com.yungnickyoung.minecraft.bettermineshafts.world.generator.pieces.SideRoom.func_230383_a_(SideRoom.java:130) ~[bettermineshafts:1.16.4-2.0.4]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_230366_a_(StructureStart.java:65) ~[?:?]
+	at net.minecraft.world.biome.Biome.lambda$generate$20(Biome.java:234) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:189) ~[?:?]
+	at it.unimi.dsi.fastutil.longs.LongIterator.forEachRemaining(LongIterator.java:53) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.biome.Biome.func_242427_a(Biome.java:233) ~[?:?]
+	at net.minecraft.world.gen.ChunkGenerator.func_230351_a_(SourceFile:220) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_222605_b(ChunkStatus.java:77) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?]
+[07Jul2026 05:09:55.660] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:09:56.171] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:09:56.343] [Worker-Main-6/WARN] [net.minecraft.util.Util/]: Worker-Main-6 died
+java.util.concurrent.CompletionException: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1081) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at net.minecraftforge.eventbus.EventBus.handleException(EventBus.java:316) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:307) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:583) ~[forge:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:577) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.doGatherCapabilities(CapabilityProvider.java:69) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.getCapabilities(CapabilityProvider.java:77) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.areCapsCompatible(CapabilityProvider.java:89) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_77970_a(ItemStack.java:364) ~[?:?]
+	at net.minecraft.tileentity.AbstractFurnaceTileEntity.func_70299_a(AbstractFurnaceTileEntity.java:387) ~[?:?]
+	at com.yungnickyoung.minecraft.bettermineshafts.world.generator.pieces.SideRoom.func_230383_a_(SideRoom.java:130) ~[bettermineshafts:1.16.4-2.0.4]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_230366_a_(StructureStart.java:65) ~[?:?]
+	at net.minecraft.world.biome.Biome.lambda$generate$20(Biome.java:234) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:189) ~[?:?]
+	at it.unimi.dsi.fastutil.longs.LongIterator.forEachRemaining(LongIterator.java:53) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.biome.Biome.func_242427_a(Biome.java:233) ~[?:?]
+	at net.minecraft.world.gen.ChunkGenerator.func_230351_a_(SourceFile:220) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_222605_b(ChunkStatus.java:77) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
+	... 11 more
+[07Jul2026 05:09:56.344] [Worker-Main-12/WARN] [net.minecraft.util.Util/]: Worker-Main-12 died
+java.util.concurrent.CompletionException: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1081) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at net.minecraftforge.eventbus.EventBus.handleException(EventBus.java:316) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:307) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:583) ~[forge:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:577) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.doGatherCapabilities(CapabilityProvider.java:69) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.getCapabilities(CapabilityProvider.java:77) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.areCapsCompatible(CapabilityProvider.java:89) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_77970_a(ItemStack.java:364) ~[?:?]
+	at net.minecraft.tileentity.AbstractFurnaceTileEntity.func_70299_a(AbstractFurnaceTileEntity.java:387) ~[?:?]
+	at com.yungnickyoung.minecraft.bettermineshafts.world.generator.pieces.SideRoom.func_230383_a_(SideRoom.java:130) ~[bettermineshafts:1.16.4-2.0.4]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_230366_a_(StructureStart.java:65) ~[?:?]
+	at net.minecraft.world.biome.Biome.lambda$generate$20(Biome.java:234) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:189) ~[?:?]
+	at it.unimi.dsi.fastutil.longs.LongIterator.forEachRemaining(LongIterator.java:53) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.biome.Biome.func_242427_a(Biome.java:233) ~[?:?]
+	at net.minecraft.world.gen.ChunkGenerator.func_230351_a_(SourceFile:220) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_222605_b(ChunkStatus.java:77) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
+	... 11 more
+[07Jul2026 05:09:56.342] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Chunk source main thread executor for minecraft:overworld
+java.util.concurrent.CompletionException: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1081) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?]
+Caused by: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at net.minecraftforge.eventbus.EventBus.handleException(EventBus.java:316) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:307) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:583) ~[forge:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:577) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.doGatherCapabilities(CapabilityProvider.java:69) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.getCapabilities(CapabilityProvider.java:77) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.areCapsCompatible(CapabilityProvider.java:89) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_77970_a(ItemStack.java:364) ~[?:?]
+	at net.minecraft.tileentity.AbstractFurnaceTileEntity.func_70299_a(AbstractFurnaceTileEntity.java:387) ~[?:?]
+	at com.yungnickyoung.minecraft.bettermineshafts.world.generator.pieces.SideRoom.func_230383_a_(SideRoom.java:130) ~[bettermineshafts:1.16.4-2.0.4]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_230366_a_(StructureStart.java:65) ~[?:?]
+	at net.minecraft.world.biome.Biome.lambda$generate$20(Biome.java:234) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:189) ~[?:?]
+	at it.unimi.dsi.fastutil.longs.LongIterator.forEachRemaining(LongIterator.java:53) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.biome.Biome.func_242427_a(Biome.java:233) ~[?:?]
+	at net.minecraft.world.gen.ChunkGenerator.func_230351_a_(SourceFile:220) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_222605_b(ChunkStatus.java:77) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
+	... 11 more
+[07Jul2026 05:09:56.350] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Chunk source main thread executor for minecraft:overworld
+java.util.concurrent.CompletionException: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1081) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?]
+Caused by: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at net.minecraftforge.eventbus.EventBus.handleException(EventBus.java:316) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:307) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:583) ~[forge:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:577) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.doGatherCapabilities(CapabilityProvider.java:69) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.getCapabilities(CapabilityProvider.java:77) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.areCapsCompatible(CapabilityProvider.java:89) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_77970_a(ItemStack.java:364) ~[?:?]
+	at net.minecraft.tileentity.AbstractFurnaceTileEntity.func_70299_a(AbstractFurnaceTileEntity.java:387) ~[?:?]
+	at com.yungnickyoung.minecraft.bettermineshafts.world.generator.pieces.SideRoom.func_230383_a_(SideRoom.java:130) ~[bettermineshafts:1.16.4-2.0.4]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_230366_a_(StructureStart.java:65) ~[?:?]
+	at net.minecraft.world.biome.Biome.lambda$generate$20(Biome.java:234) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:189) ~[?:?]
+	at it.unimi.dsi.fastutil.longs.LongIterator.forEachRemaining(LongIterator.java:53) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.biome.Biome.func_242427_a(Biome.java:233) ~[?:?]
+	at net.minecraft.world.gen.ChunkGenerator.func_230351_a_(SourceFile:220) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_222605_b(ChunkStatus.java:77) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
+	... 11 more
+[07Jul2026 05:09:56.350] [Worker-Main-6/ERROR] [net.minecraft.util.Util/]: Caught exception in thread Thread[Worker-Main-6,5,main]
+java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at net.minecraftforge.eventbus.EventBus.handleException(EventBus.java:316) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:307) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:583) ~[forge:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:577) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.doGatherCapabilities(CapabilityProvider.java:69) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.getCapabilities(CapabilityProvider.java:77) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.areCapsCompatible(CapabilityProvider.java:89) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_77970_a(ItemStack.java:364) ~[?:?]
+	at net.minecraft.tileentity.AbstractFurnaceTileEntity.func_70299_a(AbstractFurnaceTileEntity.java:387) ~[?:?]
+	at com.yungnickyoung.minecraft.bettermineshafts.world.generator.pieces.SideRoom.func_230383_a_(SideRoom.java:130) ~[bettermineshafts:1.16.4-2.0.4]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_230366_a_(StructureStart.java:65) ~[?:?]
+	at net.minecraft.world.biome.Biome.lambda$generate$20(Biome.java:234) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:189) ~[?:?]
+	at it.unimi.dsi.fastutil.longs.LongIterator.forEachRemaining(LongIterator.java:53) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.biome.Biome.func_242427_a(Biome.java:233) ~[?:?]
+	at net.minecraft.world.gen.ChunkGenerator.func_230351_a_(SourceFile:220) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_222605_b(ChunkStatus.java:77) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?]
+[07Jul2026 05:09:56.356] [Worker-Main-12/ERROR] [net.minecraft.util.Util/]: Caught exception in thread Thread[Worker-Main-12,5,main]
+java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at net.minecraftforge.eventbus.EventBus.handleException(EventBus.java:316) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:307) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:583) ~[forge:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:577) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.doGatherCapabilities(CapabilityProvider.java:69) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.getCapabilities(CapabilityProvider.java:77) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.areCapsCompatible(CapabilityProvider.java:89) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_77970_a(ItemStack.java:364) ~[?:?]
+	at net.minecraft.tileentity.AbstractFurnaceTileEntity.func_70299_a(AbstractFurnaceTileEntity.java:387) ~[?:?]
+	at com.yungnickyoung.minecraft.bettermineshafts.world.generator.pieces.SideRoom.func_230383_a_(SideRoom.java:130) ~[bettermineshafts:1.16.4-2.0.4]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_230366_a_(StructureStart.java:65) ~[?:?]
+	at net.minecraft.world.biome.Biome.lambda$generate$20(Biome.java:234) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:189) ~[?:?]
+	at it.unimi.dsi.fastutil.longs.LongIterator.forEachRemaining(LongIterator.java:53) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.biome.Biome.func_242427_a(Biome.java:233) ~[?:?]
+	at net.minecraft.world.gen.ChunkGenerator.func_230351_a_(SourceFile:220) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_222605_b(ChunkStatus.java:77) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?]
+[07Jul2026 05:09:56.351] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Chunk source main thread executor for minecraft:overworld
+java.util.concurrent.CompletionException: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1081) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?]
+Caused by: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at net.minecraftforge.eventbus.EventBus.handleException(EventBus.java:316) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:307) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:583) ~[forge:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:577) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.doGatherCapabilities(CapabilityProvider.java:69) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.getCapabilities(CapabilityProvider.java:77) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.areCapsCompatible(CapabilityProvider.java:89) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_77970_a(ItemStack.java:364) ~[?:?]
+	at net.minecraft.tileentity.AbstractFurnaceTileEntity.func_70299_a(AbstractFurnaceTileEntity.java:387) ~[?:?]
+	at com.yungnickyoung.minecraft.bettermineshafts.world.generator.pieces.SideRoom.func_230383_a_(SideRoom.java:130) ~[bettermineshafts:1.16.4-2.0.4]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_230366_a_(StructureStart.java:65) ~[?:?]
+	at net.minecraft.world.biome.Biome.lambda$generate$20(Biome.java:234) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:189) ~[?:?]
+	at it.unimi.dsi.fastutil.longs.LongIterator.forEachRemaining(LongIterator.java:53) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.biome.Biome.func_242427_a(Biome.java:233) ~[?:?]
+	at net.minecraft.world.gen.ChunkGenerator.func_230351_a_(SourceFile:220) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_222605_b(ChunkStatus.java:77) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
+	... 11 more
+[07Jul2026 05:09:56.362] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Chunk source main thread executor for minecraft:overworld
+java.util.concurrent.CompletionException: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1081) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?]
+Caused by: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at net.minecraftforge.eventbus.EventBus.handleException(EventBus.java:316) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:307) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:583) ~[forge:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:577) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.doGatherCapabilities(CapabilityProvider.java:69) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.getCapabilities(CapabilityProvider.java:77) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.areCapsCompatible(CapabilityProvider.java:89) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_77970_a(ItemStack.java:364) ~[?:?]
+	at net.minecraft.tileentity.AbstractFurnaceTileEntity.func_70299_a(AbstractFurnaceTileEntity.java:387) ~[?:?]
+	at com.yungnickyoung.minecraft.bettermineshafts.world.generator.pieces.SideRoom.func_230383_a_(SideRoom.java:130) ~[bettermineshafts:1.16.4-2.0.4]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_230366_a_(StructureStart.java:65) ~[?:?]
+	at net.minecraft.world.biome.Biome.lambda$generate$20(Biome.java:234) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:189) ~[?:?]
+	at it.unimi.dsi.fastutil.longs.LongIterator.forEachRemaining(LongIterator.java:53) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.biome.Biome.func_242427_a(Biome.java:233) ~[?:?]
+	at net.minecraft.world.gen.ChunkGenerator.func_230351_a_(SourceFile:220) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_222605_b(ChunkStatus.java:77) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
+	... 11 more
+[07Jul2026 05:09:56.363] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Chunk source main thread executor for minecraft:overworld
+java.util.concurrent.CompletionException: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1081) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?]
+Caused by: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at net.minecraftforge.eventbus.EventBus.handleException(EventBus.java:316) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:307) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:583) ~[forge:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:577) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.doGatherCapabilities(CapabilityProvider.java:69) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.getCapabilities(CapabilityProvider.java:77) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.areCapsCompatible(CapabilityProvider.java:89) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_77970_a(ItemStack.java:364) ~[?:?]
+	at net.minecraft.tileentity.AbstractFurnaceTileEntity.func_70299_a(AbstractFurnaceTileEntity.java:387) ~[?:?]
+	at com.yungnickyoung.minecraft.bettermineshafts.world.generator.pieces.SideRoom.func_230383_a_(SideRoom.java:130) ~[bettermineshafts:1.16.4-2.0.4]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_230366_a_(StructureStart.java:65) ~[?:?]
+	at net.minecraft.world.biome.Biome.lambda$generate$20(Biome.java:234) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:189) ~[?:?]
+	at it.unimi.dsi.fastutil.longs.LongIterator.forEachRemaining(LongIterator.java:53) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.biome.Biome.func_242427_a(Biome.java:233) ~[?:?]
+	at net.minecraft.world.gen.ChunkGenerator.func_230351_a_(SourceFile:220) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_222605_b(ChunkStatus.java:77) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
+	... 11 more
+[07Jul2026 05:09:56.364] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Chunk source main thread executor for minecraft:overworld
+java.util.concurrent.CompletionException: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1081) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?]
+Caused by: java.lang.LinkageError: loader constraint violation: loader 'app' wants to load interface org.apache.logging.log4j.util.MessageSupplier. (org.apache.logging.log4j.util.MessageSupplier is in unnamed module of loader 'app')
+	at net.minecraftforge.eventbus.EventBus.handleException(EventBus.java:316) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:307) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:583) ~[forge:?]
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:577) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.doGatherCapabilities(CapabilityProvider.java:69) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.getCapabilities(CapabilityProvider.java:77) ~[forge:?]
+	at net.minecraftforge.common.capabilities.CapabilityProvider.areCapsCompatible(CapabilityProvider.java:89) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_77970_a(ItemStack.java:364) ~[?:?]
+	at net.minecraft.tileentity.AbstractFurnaceTileEntity.func_70299_a(AbstractFurnaceTileEntity.java:387) ~[?:?]
+	at com.yungnickyoung.minecraft.bettermineshafts.world.generator.pieces.SideRoom.func_230383_a_(SideRoom.java:130) ~[bettermineshafts:1.16.4-2.0.4]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_230366_a_(StructureStart.java:65) ~[?:?]
+	at net.minecraft.world.biome.Biome.lambda$generate$20(Biome.java:234) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:189) ~[?:?]
+	at it.unimi.dsi.fastutil.longs.LongIterator.forEachRemaining(LongIterator.java:53) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.biome.Biome.func_242427_a(Biome.java:233) ~[?:?]
+	at net.minecraft.world.gen.ChunkGenerator.func_230351_a_(SourceFile:220) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_222605_b(ChunkStatus.java:77) ~[?:?]
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
+	... 11 more
+[07Jul2026 05:09:56.677] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:09:57.161] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:09:57.670] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:09:58.162] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:09:58.677] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:09:59.173] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:09:59.665] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:00.172] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:00.661] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:01.160] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:01.664] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:02.162] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:03.015] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:03.163] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:03.660] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:04.170] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:04.663] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:05.182] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:05.685] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:05.729] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:10:06.167] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:06.660] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:07.185] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:07.662] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:08.174] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:08.666] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:09.163] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:09.605] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:10:09.608] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:10:09.691] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:10.167] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:10.665] [Worker-Main-14/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:11.161] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:11.668] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:12.163] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:13.378] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:10:14.206] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:14.207] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:14.208] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:14.208] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[07Jul2026 05:10:20.737] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:12:10.372] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:14:52.224] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:19.460] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:21.062] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:21.246] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:21.439] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:21.618] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:21.801] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:22.003] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:22.192] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:22.528] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:23.478] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:23.882] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:24.078] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:24.398] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:24.497] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:24.601] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:15:27.827] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:25.021] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:26.353] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:26.557] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:26.780] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:26.980] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:27.121] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:27.309] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:27.517] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:28.315] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:28.579] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:28.731] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:29.093] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:29.272] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:29.515] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:29.722] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:29.884] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:30.266] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:30.472] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:30.678] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[07Jul2026 05:17:30.879] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
